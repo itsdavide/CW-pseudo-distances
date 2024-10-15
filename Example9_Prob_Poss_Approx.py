@@ -3,7 +3,7 @@
 """
 Reference code for the paper:
     
-S. Lorenzini, D.Petturiti, B. Vantaggi.
+S. Lorenzini, D. Petturiti, B. Vantaggi.
 Choquet-Wasserstein pseudo-distances via optimal transport under partially 
 specified marginal probabilities. 2024.
 
