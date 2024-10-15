@@ -20,7 +20,7 @@ permutations of the marginal underlying spaces.
 
 _Example7_CW_Pseudo_Dist.py_: The code computes the entropic regularized Choquet-Wasserstein 
 pseudo-distances between two belief functions on the same metric space
-with ground absolute value metric, for different values of the regularization
+with absolute value ground metric, for different values of the regularization
 parameter. The computation is done with a modification of Dykstra's algortithm.
 
 _Example8_Add2_Eps_Approx.py_: The code computes the pessimistic (alpha = 1) and optimistic 
