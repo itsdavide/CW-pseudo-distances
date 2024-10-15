@@ -6,7 +6,7 @@ S. Lorenzini, D.Petturiti, B. Vantaggi.
 _Choquet-Wasserstein pseudo-distances via optimal transport under partially specified marginal probabilities_. 2024.
 
 # Requirements
-The code requires the *pypoman* library available at: https://pypi.org/project/pyswarm/.
+The code requires the *pypoman* library available at: https://pypi.org/project/pypoman/.
 
 # File inventory
 _Example2_Bilinear_Interp.py_: The code computes two (non-extremal) caopulas giving rise to a fixed 
