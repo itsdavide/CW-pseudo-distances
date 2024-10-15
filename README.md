@@ -9,8 +9,8 @@ _Choquet-Wasserstein pseudo-distances via optimal transport under partially spec
 The code requires the *pypoman* library available at: https://pypi.org/project/pypoman/.
 
 # File inventory
-_Example2_Bilinear_Interp.py_: The code computes two (non-extremal) caopulas giving rise to a fixed 
-joint Mobius inverse via bilinear interpolations. The graph and the contour 
+_Example2_Bilinear_Interp.py_: The code computes two (non-extremal) copulas giving rise to a fixed 
+joint Mobius inverse via bilinear interpolation. The graph and the contour 
 lines of each copula are saved in images.
 
 _Example2_Extreme_Points.py_: The code computes the extreme points of the set of joint belief
