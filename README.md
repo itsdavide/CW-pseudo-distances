@@ -3,7 +3,7 @@
 Reference code for the paper:
     
 S. Lorenzini, D. Petturiti, B. Vantaggi.
-_Choquet-Wasserstein pseudo-distances via optimal transport under partially specified marginal probabilities_. 2024.
+_Choquet-Wasserstein pseudo-distances via optimal transport under partially specified marginal probabilities_. **Fuzzy Sets and Systems**, 515:109429, 2025.
 
 # Requirements
 The code requires the *pypoman* library available at: https://pypi.org/project/pypoman/.
